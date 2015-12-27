@@ -5,7 +5,7 @@
 # By using this HP CMDLTS we can  Configure and manege insight Lights Out (iLO), HP BIOS and Onboard Administrator (OA)
 # To run this script pls check the avilabilty of Get-HPOAFWSummary cmdlet
 # Fimeware components - OnboardAdministratorFirmwareInformation , EnclosureComponentFirmwareInformation , InterconnectFirmwareInformation , DeviceFirmwareInformation
-#Reference - http://techbrainblog.com/2015/12/11/powershell-script-to-audit-the-vmware-vcenteresxi-windows-logs/
+#Reference - http://techbrainblog.com/2015/12/27/powershell-to-find-the-firmware-version-of-the-hp-enclosure-onboard-administrator-and-its-related-components-part-1/
 # Provide the text file path which contains the HP OA IPs
 # Output with the firmware details will be stored in the format below so provide the exact folder path
 #Output format ( ( "C:\Tmp\" + $dd + "_device_firmware.txt" ) - C:\Tmp = folder name with path ; + $dd + = It will show the current IP in the variable ; _device_firmware.txt = componentname of the firmware in text format
