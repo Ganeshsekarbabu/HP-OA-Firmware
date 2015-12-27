@@ -1,11 +1,11 @@
-﻿#Author : Ganesh Sekarbabu
-#Site - https://techbrainblog.com/
-#Purpose: To find the firmware version of the HP Enclosure Onboard Administrator and its releated components 
+﻿# Author : Ganesh Sekarbabu
+# Site - https://techbrainblog.com/
+# Purpose: To find the firmware version of the HP Enclosure Onboard Administrator and its releated components 
 # Download the HP CMDLTS from the " http://www8.hp.com/us/en/products/server-software/product-detail.html?oid=5440657#!tab=features "
 # By using this HP CMDLTS we can  Configure and manege insight Lights Out (iLO), HP BIOS and Onboard Administrator (OA)
 # To run this script pls check the avilabilty of Get-HPOAFWSummary cmdlet
 # Fimeware components - OnboardAdministratorFirmwareInformation , EnclosureComponentFirmwareInformation , InterconnectFirmwareInformation , DeviceFirmwareInformation
-#Reference - http://techbrainblog.com/2015/12/27/powershell-to-find-the-firmware-version-of-the-hp-enclosure-onboard-administrator-and-its-related-components-part-1/
+# Reference - http://techbrainblog.com/2015/12/27/powershell-to-find-the-firmware-version-of-the-hp-enclosure-onboard-administrator-and-its-related-components-part-1/
 # Provide the text file path which contains the HP OA IPs
 # By selecting the options we can get the firmware components of particulat item.
 # Output with the firmware details will be stored in the given path for each Enclosure
