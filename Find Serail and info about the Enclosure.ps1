@@ -12,7 +12,7 @@
 # Download the HP CMDLTS from the " http://www8.hp.com/us/en/products/server-software/product-detail.html?oid=5440657#!tab=features "
 # By using this HP CMDLTS we can  Configure and manage insight Lights Out (iLO), HP BIOS and Onboard Administrator (OA)
 # To run this script pls check the avilabilty of Get-HPOAEnclosureInfo cmdlet
-# Reference - 
+# Reference - http://techbrainblog.com/2016/01/04/powershell-script-to-find-the-hp-enclosure-information/
 # Provide the text file path which contains the HP OA IPs
 
 
