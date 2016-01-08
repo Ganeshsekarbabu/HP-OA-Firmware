@@ -6,7 +6,7 @@
 # By default it searchs the default port in the iLOs. You can provide a port number by appending a port number (":#") to the IP range. The port number part is optional.
 # To run this script pls check the avilabilty of Find-HPilo cmdlet
 # Type ( get-help Find-hpilo -full ) for more expamples
-# Reference - 
+# Reference - http://techbrainblog.com/2016/01/07/powershell-script-to-find-the-valid-ilos-in-the-subnet-and-also-its-firmware-version/
 
 
 
