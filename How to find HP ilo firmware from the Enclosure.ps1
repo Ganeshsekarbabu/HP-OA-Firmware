@@ -4,7 +4,7 @@
 # Download the HP CMDLTS from the " http://www8.hp.com/us/en/products/server-software/product-detail.html?oid=5440657#!tab=features "
 # By using this HP CMDLTS we can  Configure and manage insight Lights Out (iLO), HP BIOS and Onboard Administrator (OA)
 # To run this script pls check the avilabilty of conect-HPOA and Get-HPOAServerList cmdlet
-#Reference - 
+#Reference - http://techbrainblog.com/2016/01/07/powershell-script-to-find-the-ilo-firmware-of-the-blades-running-on-hp-enclosure/
 # Provide the Enclosure and ilo IP and the username password of the Enclosure and blades.
 # Note if the username and passwoed is not configured 
 
