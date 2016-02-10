@@ -3,7 +3,7 @@
 # Purpose: To update the Onboard Administrator firmware.
 # Download the HP CMDLTS from the " http://www8.hp.com/us/en/products/server-software/product-detail.html?oid=5440657#!tab=features "
 # To run this script pls check the avilabilty of Update-HPOAFirmware
-# Reference - 
+# Reference - http://techbrainblog.com/2016/02/10/powershell-script-to-update-the-onboard-administrator-firmware/
 # Provide the ftp path which contains the firmware bin
 
 
