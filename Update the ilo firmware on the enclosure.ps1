@@ -4,7 +4,7 @@
 # Download the HP CMDLTS from the " http://www8.hp.com/us/en/products/server-software/product-detail.html?oid=5440657#!tab=features "
 # By using this HP CMDLTS we can  Configure and manege insight Lights Out (iLO), HP BIOS and Onboard Administrator (OA)
 # To run this script pls check the avilabilty of updaete-HPOAilo
-# Reference - http://techbrainblog.com/2015/12/27/powershell-to-find-the-firmware-version-of-the-hp-enclosure-onboard-administrator-and-its-related-components-part-1/
+# Reference - http://techbrainblog.com/2016/02/10/powershell-script-to-update-the-ilo-firmware-on-the-enclosure-blades/
 # Provide the ftp path which contains the firmware bin
 # Seelct the Bay number or use ALL to update all the Bay's
 
